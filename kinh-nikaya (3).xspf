@@ -1,0 +1,2298 @@
+<?xml version="1.0"?>
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/">
+  <title>Kinh Nikaya</title>
+  <trackList>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya000-Lời Nói Đầu-Ban Hoằng Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya001-Trường Bộ (01) Kinh Phạm võng (Brahmajàla Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya002-Trường Bộ (01) Kinh Phạm võng (Brahmajàla Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya004-Trường Bộ (01) Kinh Phạm võng (Brahmajàla Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya005-Trường Bộ (01) Kinh Phạm võng (Brahmajàla Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya006-Trường Bộ (02) Kinh Sa-môn quả (Sàmanna-Phala Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya007-Trường Bộ (02) Kinh Sa-môn quả (Sàmanna-Phala Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya008-Trường Bộ (02) Kinh Sa-môn quả (Sàmanna-Phala Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya009-Trường Bộ (02) Kinh Sa-môn quả (Sàmanna-Phala Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya010-Trường Bộ (03) Kinh A-ma-trú (Ambattha Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya011-Trường Bộ (03) Kinh A-ma-trú (Ambattha Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya012-Trường Bộ (04) Kinh Chủng Ðức (Sonadanda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya013-Trường Bộ (04) Kinh Chủng Ðức (Sonadanda Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya014-Trường Bộ (05) Kinh Cứu-la-đàn-đầu (Kutadanta Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya015-Trường Bộ (05) Kinh Cứu-la-đàn-đầu (Kutadanta Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya016 Trường Bộ (06) Kinh Jaliya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya017-Trường Bộ (06) Kinh Ma-ha-li (Mahàli Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya018-Trường Bộ (08) Kinh Ca-diếp Sư tử hống (Kassapa-Sìhanàda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya019-Trường Bộ (08) Kinh Ca-diếp Sư tử hống (Kassapa-Sìhanàda Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya020-Trường Bộ (09) Kinh Bố-sá-bà-lâu (Potthapàda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya021-Trường Bộ (09) Kinh Bố-sá-bà-lâu (Potthapàda Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya022-Trường Bộ (10) Kinh Tu-ba (Subha Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya023-Trường Bộ (11) Kinh Kiên cố (Kevaddha Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya024-Trường Bộ (12) Kinh Lô-hi-gia (Lohicca Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya025-Trường Bộ (13) Kinh Tam minh (Tevijja Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya026-Trường Bộ (13) Kinh Tam minh (Tevijja Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya027-Trường Bộ (14) Kinh Ðại bổn (Mahà-Padàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya028-Trường Bộ (14) Kinh Ðại bổn (Mahà-Padàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya029-Trường Bộ (14) Kinh Ðại bổn (Mahà-Padàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya030-Trường Bộ (14) Kinh Ðại bổn (Mahà-Padàna Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya031-Trường Bộ (15) Kinh Ðại duyên (Mahà-Nidàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya032-Trường Bộ (15) Kinh Ðại duyên (Mahà-Nidàna Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya033-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya034-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya035-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya036-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya037-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya038-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya039-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya040-Trường Bộ (16) Kinh Ðại Bát-niết-bàn (Mahà-parinibbàna Sutta)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya041-Trường Bộ (17) Kinh Ðại Thiện-kiến vương (Mahà-Sudassana Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya042-Trường Bộ (17) Kinh Ðại Thiện-kiến vương (Mahà-Sudassana Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya043-Trường Bộ (18) Kinh Xà-ni-sa (Janavasabha Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya044-Trường Bộ (19) Kinh Ðại Ðiền-tôn (Mahà-Govinda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya045-Trường Bộ (19) Kinh Ðại Ðiền-tôn (Mahà-Govinda Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya046-Trường Bộ (20) Kinh Ðại hội (Mahà-Samaya Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya047-Trường Bộ (21) Kinh Ðế-thích sở vấn (Sakka-panha Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya048-Trường Bộ (21) Kinh Ðế-thích sở vấn (Sakka-panha Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya049-Trường Bộ (22) Kinh Ðại niệm xứ (Mahà-Satipatthàna Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya050-Trường Bộ (22) Kinh Ðại niệm xứ (Mahà-Satipatthàna Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya051-Trường Bộ (23) Kinh Tệ-túc (Pàyàsi Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya052-Trường Bộ (23) Kinh Tệ-túc (Pàyàsi Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya053-Trường Bộ (23) Kinh Tệ-túc (Pàyàsi Sutta) tt hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya054-Trường Bộ (24) Kinh Ba-lê (Pàtika Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya055-Trường Bộ (24) Kinh Ba-lê (Pàtika Sutta) hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya056-Trường Bộ (25) Kinh Ưu-đàm-bà-la Sư tử hống (Udumbarika-Sìhanàdà Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya057-Trường Bộ (25) Kinh Ưu-đàm-bà-la Sư tử hống (Udumbarika-Sìhanàdà Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya058-Trường Bộ (26) Kinh Chuyển luân thánh vương Sư tử hống (Cakkavatti-Sìhanàda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya059-Trường Bộ (26) Kinh Chuyển luân thánh vương Sư tử hống (Cakkavatti-Sìhanàda Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya060-Trường Bộ (27) Kinh Khởi thế nhân bổn (Agganana Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya061-Trường Bộ (28) Kinh Tự hoan hỷ (Sampasàdaniya Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya062-Trường Bộ (29) Kinh Thanh tịnh (Pàsàdika Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya063-Trường Bộ (29) Kinh Thanh tịnh (Pàsàdika Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya064-Trường Bộ (30) Kinh Tướng (Lakkhana Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya065-Trường Bộ (30) Kinh Tướng (Lakkhana Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya066-Trường Bộ (31) Kinh Giáo thọ Thi-ca-la-việt (Singàlovàda Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya067-Trường Bộ (32) Kinh A-sá-nang-chi (Atànàtiya Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya068-Trường Bộ (33) Kinh Phúng tụng (Sangiti Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya069-Trường Bộ (33) Kinh Phúng tụng (Sangiti Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya070-Trường Bộ (33) Kinh Phúng tụng (Sangiti Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya071-Trường Bộ (33) Kinh Phúng tụng (Sangiti Sutta) tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya072-Trường Bộ (34) Kinh Thập thượng (Dasuttara Sutta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya073-Trung Bộ (01) Kinh Pháp môn căn bản.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya074-Trung Bộ (02) Kinh Tất cả lậu hoặc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya075-Trung Bộ (03) Kinh Thừa tự Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya076-Trung Bộ (04) Kinh Sợ hãi và khiếp đảm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya077-Trung Bộ (05) Kinh Không uế nhiễm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya078-Trung Bộ (06) Kinh Ước nguyện.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya079-Trung Bộ (07) Kinh Ví dụ tấm vải.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya080-Trung Bộ (08) Kinh Ðoạn giảm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya081-Trung Bộ (09) Kinh Chánh tri kiến.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya082-Trung Bộ (10) Kinh Niệm xứ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya083-Trung Bộ (11) Kinh Tiểu Sư tử hống.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya084-Trung Bộ (12) Kinh Ðại Sư tử hống.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya085-Trung Bộ (12) Kinh Ðại Sư tử hống-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya086-Trung Bộ (13) Đại Kinh Khổ uẩn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya087-Trung Bộ (14) Tiểu Kinh Khổ uẩn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya088-Trung Bộ (15) Kinh Tư lượng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya089-Trung Bộ (16) Kinh Tâm hoang vu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya090-Trung Bộ (17) Kinh Khu rừng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya091-Trung Bộ (18) Kinh Mật hoàn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya092-Trung Bộ (19) Kinh Song tầm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya093-Trung Bộ (20) Kinh An trú tầm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya094-Trung Bộ (21) Kinh Ví dụ cái cưa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya095-Trung Bộ (22) Kinh Ví dụ con rắn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya096-Trung Bộ (22) Kinh Ví dụ con rắn-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya097-Trung Bộ (23) Kinh Gò mối.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya098-Trung Bộ (24) Kinh Trạm xe.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya099-Trung Bộ (25) Kinh Bẫy mồi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya100-Trung Bộ (26) Kinh Thánh cầu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya101-Trung Bộ (26) Kinh Thánh cầu-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya102-Trung Bộ (27) Tiểu Kinh Ví dụ dấu chân voi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya103-Trung Bộ (28) Ðại Kinh Ví dụ dấu chân voi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya104-Trung Bộ (29) Ðại Kinh Ví dụ lõi cây.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya105-Trung Bộ (30) Tiểu Kinh Ví dụ lõi cây.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya106-Trung Bộ (31) Tiểu Kinh Khu rừng sừng bò.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya107-Trung Bộ (32) Đại Kinh Khu rừng sừng bò.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya108-Trung Bộ (33) Đại Kinh Người chăn bò.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya109-Trung Bộ (34) Tiểu Kinh Người chăn bò.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya110-Trung Bộ (35) Tiểu kinh Saccaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya111-Trung Bộ (36) Ðại kinh Saccaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya112-Trung Bộ (36) Ðại kinh Saccaka-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya113-Trung Bộ (37) Tiểu Kinh Ðoạn tận ái.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya114-Trung Bộ (38) Ðại Kinh Ðoạn tận ái.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya115-Trung Bộ (38) Ðại kinh Ðoạn tận ái-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya116-Trung Bộ (39) Ðại kinh Xóm ngựa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya117-Trung Bộ (40) Tiểu kinh Xóm ngựa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya118-Trung Bộ (41) Kinh Saleyyaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya119-Trung Bộ (42) Kinh Veranjaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya120-Trung Bộ (43) Ðại kinh Phương quảng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya121-Trung Bộ (44) Tiểu kinh Phương quảng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya122-Trung Bộ (45) Tiểu kinh Pháp hành.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya123-Trung Bộ (46) Ðại kinh Pháp hành.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya124-Trung Bộ (47) Kinh Tư sát.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya125-Trung Bộ (48) Kinh Kosampiya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya126-Trung Bộ (49) Kinh Phạm thiên cầu thỉnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya127-Trung Bộ (50) Kinh Hàng ma.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya128-Trung Bộ (51) Kinh Kandaraka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya129-Trung Bộ (52) Kinh Bất Thành.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya130-Trung Bộ (53) Kinh Hữu Học.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya131-Trung Bộ (54) Kinh Potaliya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya132-Trung Bộ (55) Kinh Jivaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya133-Trung Bộ (56) Kinh Ưu Ba Ly.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya134-Trung Bộ (56) Kinh Ưu Ba Ly.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya135-Trung Bộ (57) Kinh Hạnh Con Chó.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya136-Trung Bộ (58) Kinh Vương Tử Vô Úy Abhaya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya137-Trung Bộ (59) Kinh Nhiều Cảm Thọ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya138-Trung Bộ (60) Kinh Không Có Gì Chuyển Hướng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya139-Trung Bộ (60) Kinh Không Có Gì Chuyển Hướng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya140-Trung Bộ (61) Kinh Giáo Giới La Hầu La Ở rừng Ambala.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya141-Trung Bộ (62) Kinh Đại Kinh Giáo Giới La Hầu La.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya142-Trung Bộ (63) Tiểu Kinh Malunkya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya143-Trung Bộ (64) Đại Kinh Malunkya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya144-Trung Bộ (65) Đại Kinh Bhaddali.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya145-Trung Bộ (66) Kinh Ví Dụ Con Chim Cáy.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya146-Trung Bộ (67) Kinh Catuma.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya147-Trung Bộ (68) Kinh Nalakapana.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya148-Trung Bộ (69) Kinh Gulissani.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya149-Trung Bộ (70) Kinh Kitagiri.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya150-Trung Bộ (71) Kinh Ba Minh Vacchagota Về Tam Minh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya151-Trung Bộ (72) Kinh Aggivacchagotta Về Lửa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya152-Trung Bộ (73) Kinh Aggivacchagotta.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya153-Trung Bộ (74) Kinh Trường Trảo.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya154-Trung Bộ (75) Kinh Magandiya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya155-Trung Bộ (76) Kinh Sandaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya156-Trung Bộ (77) Kinh Mahasakuludayi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya157-Trung Bộ (78) Kinh Samanamandika.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya158-Trung Bộ (79) Kinh Sakuludayi (Thiện Sanh Ưu Đà Di).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya159-Trung Bộ (80) Kinh Vekhanassa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya160-Trung Bộ (81) Kinh Ghatikara.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya161-Trung Bộ (82) Kinh Ratthapala.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya162-Trung Bộ (82) Kinh Ratthapala-tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya163-Trung Bộ (83) Kinh Makhadeva.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya164-Trung Bộ (84) Kinh Madhura.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya165-Trung Bộ (85) Kinh Bồ Đề Vương Tử.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya166-Trung Bộ (86) Kinh Angulimala.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya167-Trung Bộ (87) Kinh Ái Sanh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya168-Trung Bộ (88) Kinh Bahitika.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya169-Trung Bộ (89) Kinh Pháp Trang Nghiêm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya170-Trung Bộ (90) Kinh Kannakatthala.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya171-Trung Bộ (91) Kinh Brahmayu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya172-Trung Bộ (92) Kinh Sela.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya173-Trung Bộ (93) Kinh Assalayana.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya174-Trung Bộ (94) Kinh Ghotamukha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya175-Trung Bộ (95) Kinh Canki.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya176-Trung Bộ (96) Kinh Esukari.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya177-Trung Bộ (97) Kinh Dhananjani.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya178-Trung Bộ (98) Kinh Vasettha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya179-Trung Bộ (99) Kinh Subha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya180-Trung Bộ (100) Kinh Sangarava.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya181-Trung Bộ (101) Kinh Devadaha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya182-Trung Bộ (101) Kinh Davadaha tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya183-Trung Bộ (102) Kinh Năm Và Ba.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya184-Trung Bộ (103) Kinh Nghĩ Như Thế Nào.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya185-Trung Bộ (104) Kinh Làng Sama.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya186-Trung Bộ (105) Kinh Thiện Tinh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya187-Trung Bộ (106) Kinh Bất Động Lợi Ích.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya188-Trung Bộ (107) Kinh Gonaka Moggallana.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya189-Trung Bộ (108) Kinh Gopaka Moggallana.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya190-Trung Bộ (109) Kinh Đại Mãn Nguyệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya191-Trung Bộ (110) Kinh Tiểu Mãn Nguyệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya192-Trung Bộ (111) Kinh Bất Đoạn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya193-Trung Bộ (112) Kinh Sáu Thanh Tịnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya194-Trung Bộ (113) Kinh Chân Nhân.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya195-Trung Bộ (114) Kinh Nên Hành Trì-Không Nên Hành Trì.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya196-Trung Bộ (114) Kinh Nên Hành Trì-Không Nên Hành Trì tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya197-Trung Bộ (115) Kinh Đa Giới.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya198-Trung Bộ (116) Kinh Thôn Tiên.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya199-Trung Bộ (117) Kinh Đại Kinh Bốn Mươi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya200-Trung Bộ (118) Kinh Nhập Tức Xuất Tức Niệm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya201-Trung Bộ (119) Kinh Thân Hành Niệm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya202-Trung Bộ (120) Kinh Hành Sanh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya203-Trung Bộ (121) Kinh Tiểu Không.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya204-Trung Bộ (122) Kinh Đại Không.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya205-Trung Bộ (123) Kinh Hy Hữu Vị Tằng Hữu Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya206-Trung Bộ (124) Kinh Bạc Câu La.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya207-Trung Bộ (125) Kinh Điều Ngự Địa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya208-Trung Bộ (126) Kinh Phù Di.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya209-Trung Bộ (127) Kinh A Na Luật.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya210-Trung Bộ (128) Kinh Tuỳ Phiền Não.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya211-Trung Bộ (129) Kinh Hiền Ngu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya212-Trung Bộ (129) Kinh Hiền Ngu tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya213-Trung Bộ (130) Kinh Thiên Xứ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya214-Trung Bộ (131) Kinh Nhất Dạ Hiền Giả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya215-Trung Bộ (132) Kinh A Nan Nhất Dạ Hiền Giả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya216-Trung Bộ (133) Kinh Đại Ca Chiên Diên Nhất Dạ Hiền Giả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya217-Trung Bộ (134) Kinh Lomasakangiya nhất dạ hiền giả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya218-Trung Bộ (135) Kinh Tiểu Nghiệp phân biệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya219-Trung Bộ (136) Kinh Đại Nghiệp phân biệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya220-Trung Bộ (137) Kinh Phân biệt sáu xứ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya221-Trung Bộ (138) Kinh Tổng thuyết và biệt thuyết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya222-Trung Bộ (139) Kinh Vô tránh phân biệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya223-Trung Bộ (140) Kinh Giới phân biệt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya224-Trung Bộ (141) Kinh Phân biệt về sự thật.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya225-Trung Bộ (142) Kinh Phân biệt cúng dường.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya226-Trung Bộ (143) Kinh Giáo giới Cấp Cô Ðộc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya227-Trung Bộ (144) Kinh Giáo giới Channa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya228-Trung Bộ (145) Kinh Giáo giới Phú-lâu-na.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya229-Trung Bộ (146) Kinh Giáo giới Nandaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya230-Trung Bộ (147) Kinh Tiểu giáo giới La-hầu-la.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya231-Trung Bộ (148) Kinh Sáu sáu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya232-Trung Bộ (149) Kinh Đại kinh Sáu xứ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya233-Trung Bộ (150) Kinh Nói cho dân chúng Nagaravinda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya234-Trung Bộ (151) Kinh Khất thực thanh tịnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya235-Trung Bộ (152) Kinh Căn tu tập.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya236-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Chư Thiên-Cây lau-Vườn Hoan Hỷ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya237-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Chư Thiên-kiếm-Quần Tiên.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya238-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Chư Thiên-Thiêu cháy-Già-Thắng-Đoạn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya239-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Thiên Tử-Ca Diếp-Cấp Cô Độc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya240-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Thiên Tử-Các Ngoại Đạo.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya241-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Kosala-Tuổi Trẻ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya242-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Kosala-Bện Tóc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya243-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Kosala-Người.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya244-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Ác ma-Khổ hạnh và Nghiệp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya245-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Ác ma-Đa Số.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya246-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Tỳ kheo ni-Alavikha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya247-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Phạm Thiên-Thỉnh Cầu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya248-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Phạm Thiên-Sanamkumàra (Thường Đồng Tử).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya249-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Bà La Môn-A La Hán.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya250-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Bà La Môn-Cư Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya251-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Trưởng Lão Vangìsa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya252-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Rừng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya253-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Dạ Xoa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya254-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Sakka-Suvìra.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya255-TƯB-Thiên Có Kệ Tập 1 Tương Ưng Sakka-Chư Thiên hay cấm giới-Năm Kinh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya256-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Phật Đà.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya257-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Đồ Ăn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya258-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Mười Lực.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya259-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Kalara-Vị Sát Đế Lỵ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya260-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Gia Chủ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya261-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Cây.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya262-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Đại.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya263-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Bó Lau.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya264-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Nhân Duyên-Sa Môn-Bà La Môn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya265-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Minh Kiến.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya266-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Giới-Nội Giới.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya267-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Giới-Căn Nhà Bằng Gạch.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya268-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Giới-Nghiệp Đạo Thứ Ba.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya269-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Vô Thỉ-Cỏ và Củi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya270-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Kassapa (Ca Diếp)-Tri Túc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya271-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Kassapa (Ca Diếp)-Giáo Giới.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya272-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Kassapa (Ca Diếp)-Trú Xứ-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya273-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Lợi Đắc Cung Kính-Khổ Lụy.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya274-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Lợi Đắc Cung Kính-Sa Môn-Bà La Môn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya275-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Ràhula-Mắt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya276-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Lakkhana-Đống Xương.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya277-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Thí Dụ-Chóp Mái.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya278-TƯB-Thiên Nhân Duyên Tập 2 Tương Ưng Tỳ Kheo-Kolita.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya279-TƯB-Thiên Uẩn Tập 3 Tương Ưng Uẩn (Năm Mươi Kinh Căn Bản)-Nakulapità.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya280-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Căn Bản-Vô Thường.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya281-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Căn Bản-Không Phải Của Các Ông.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya282-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Căn Bản-Tham Luyến.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya283-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh-A La Hán-Chấp Trước.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya284-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh-Những Gì Được Ăn-Vị Ngọt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya285-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh-Trưởng Lão-Ananda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya286-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Ở Giữa-Hoa-Dòng Sông.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya287-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Sau-Biên.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya288-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Sau-Thuyết Pháp-Vô Minh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya289-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Sau-Vô Minh-Tập Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya290-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kinh Sau-Than Đỏ-Than Đỏ Hực.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya291-TƯB-Thiên Uẩn Tập 3 Tương Ưng Radha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya292-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kiến.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya293-TƯB-Thiên Uẩn Tập 3 Tương Ưng Sanh-Con Mắt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya294-TƯB-Thiên Uẩn Tập 3 Tương Ưng Phiền Não.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya295-TƯB-Thiên Uẩn Tập 3 Tương Ưng Sariputta.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya296-TƯB-Thiên Uẩn Tập 3 Tương Ưng Loài Rồng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya297-TƯB-Thiên Uẩn Tập 3 Tương Ưng Kim Xí Điểu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya298-TƯB-Thiên Uẩn Tập 3 Tương Ưng Càn Thác Bà.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya299-TƯB-Thiên Uẩn Tập 3 Tương Ưng Thần Mây.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya300-TƯB-Thiên Uẩn Tập 3 Tương Ưng Vacchagota.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya301-TƯB-Thiên Uẩn Tập 3 Tương Ưng Thiền.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya302-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Vô Thường.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya303-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Tất Cả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya304-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần hai-Năm Mươi Kinh-Vô Minh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya305-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần hai-Năm Mươi Kinh-Bệnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya306-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần hai-Năm Mươi Kinh-Punna.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya307-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần hai-Năm Mươi Kinh-Từ Bỏ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya308-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần ba-Năm Mươi Kinh-An Ổn-Khỏi Các Khổ Ách.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya309-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Phần ba-Năm Mươi Kinh-Thế Giới Dục Công Đức.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya310-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Gia Chủ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya311-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Devadaha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya312-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Duyệt Hỷ Tiêu Tận.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya313-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Biển.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya314-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Rắn Độc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya315-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Khúc Gỗ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya316-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Sáu Xứ-Đờn Tỳ Bà.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya317-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Thọ-Phẩm Có Kệ-Thiền Định.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya318-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng thọ-Sống Một Mình.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya319-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng thọ-Một Trăm Lẻ Tám Pháp Môn-Sivaka.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya320-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Nữ Nhân-Trung Lược-Khả Ý và Không Khả Ý.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya321-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Jambukhadaka-Nibbana (Niết Bàn).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya322-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Moggalana-Với Tầm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya323-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Tâm-Kiết Sử.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya324-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Tâm-Kamabhu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya325-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Thôn Trưởng-Canda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya326-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Thôn Trưởng-tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya327-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Thôn Trưởng-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya328-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Vô Vi-Thân.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya329-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Không Thuyết-Trưởng Lão Ni Khema.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya330-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Không Thuyết-Sariputta Kotthika.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya331-TƯB-Thiên Sáu Xứ Tập 4 Tương Ưng Không Thuyết-Vaccha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya332-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Đạo-Vô Minh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya333-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Đạo-Tà Tánh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya334-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Đạo-Không Phóng Dật.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya335-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Giác Chi-Núi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya336-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Giác Chi-Về Bịnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya337-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Giác Chi-Triền Cái.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya338-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Giác Chi-Tổng Nhiếp Giác Chi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya339-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Giác Chi-Hơi Thở Vô Hơi Thở Ra.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya340-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Niệm Xứ-Ambapali.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya341-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Niệm Xứ-Nalanda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya342-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Niệm Xứ-Giới Trú.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya343-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Niêm Xứ-Bất Tử.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya344-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Căn-Thanh Tịnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya345-TƯB-Thiên Đại Phẩm Tập 5 Tuong Ưng Căn-Lạc Căn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya346-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Căn-Về Già.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya347-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Căn-Giác Phần.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya348-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Chánh Cần-Sông Hằng Rộng Thuyết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya349-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Lực-Sông Hằng Rộng Thuyết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya350-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Anuruddha-Độc Cư.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya351-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Hơi Thở Vô-Hơi Thở Ra.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya352-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Hơi Thở Vô Hơi Thở Ra.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya353-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Dự Lưu-Veludvara.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya354-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Dự Lưu-Một Ngàn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya355-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Dự Lưu-Saranani.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya356-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Dự Lưu-Phước Đức Sung Mãn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya357-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Dự Lưu-Phước Đức Sung Mãn với Kệ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya358-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Sự Thật-Định.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya359-TƯB-Thiên Đại Phẩm Tập 5 Tương Ưng Sự Thật-Vực Thẳm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya361-TCB C1 Sắc-Đoạn Triền Cái-Khó Xử Dụng-Không Điều Phục-Đặt Hướng Và Trong Sáng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya362-TCB C1 Phóng Dật-Phi Pháp-Vô Phạm-Một Người-Người Tối Thắng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya363-TCB C1 Không Thể Có Được-Chủng Tử-Makkhali-Không Phóng Dật.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya364-TCB C1 Thiền Định.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya365-TCB C2 Hình Phạt-Tranh Luận.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya366-TCB C2 Người Ngu-Tâm Thăng Bằng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya367-TCB C2 Hội Chúng-Người-Tướng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya368-TCB C2 Các Pháp-Kẻ Ngu-Các Hy Vọng-Hy Cầu-Bố Thid-Đón Chào-Nhập Định-Phẩn Nộ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya369-TCB C3 Người Ngu-Người Đóng Xe.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya370-TCB C3 Người.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya371-TCB C3 Sứ Giả Của Trời.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya372-TCB C3 Nhỏ- Các Bà La Môn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya373-TCB C3 Các Bà La Môn- Tikanna.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya374-TCB C3 Lớn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya375-TCB C3 Lớn tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya376-TCB C3 Các Căn Bản Bất Thiện.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya377-TCB C3 ananda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya378-TCB C3 Sa Môn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya379-TCB C3 Hạt Muối.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya380-TCB C3 Hạt Muối tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya381-TCB C3 Chánh Giác.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya382-TCB C3 Đoạ Xứ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya383-TCB C3 Kusinara.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya384-TCB C3 Kẻ Chiến Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya385-TCB C3 Cát Tường- Lõa Thể.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya386-TCB C4 Bhandagama.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya387-TCB C4 Hành-Uruvelà.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya388-TCB C4 Bánh xe.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya389-TCB C4 Rohitassa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya390-TCB C4 Nguồn sanh phước.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya391-TCB C4 Nghiệp Công Đức.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya392-TCB C4 Không Hý Luận.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya393-TCB C4 Không Có Rung Động.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya394-TCB C4 Asura.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya395-TCB C4 Mây Mưa.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya396-TCB C4 Kesi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya397-TCB Sợ Hãi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya398-TCB C4 Loài Người- Ánh sáng- Các Căn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya399-TCB C4 Đạo Hành.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya400-TCB C4 Tư Tâm Sở.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya401-TCB C4 Chiến Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya402-TCB C4 Chiến Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya403-TCB C4 Đại.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya404-TCB C4 Đại tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya405-TCB C4 Đại tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya406-TCB C4 Bậc Chân Nhân.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya407-TCB C4 Ô Uế.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya408-TCB C4 Diệu Hạnh-Phẩm Nghiệp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya409-TCB C4 Sợ Hải Phạm Tội.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya410-TCB C4 Thắng trí- Phẩm Nghiệp Đạo- Tham.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya411-TCB C5 Sức Mạnh Hữu Học.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya412-TCB C5 Năm Phần.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya413-TCB C5 Sumana.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya414-TCB C5 Vua Munda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya415-TCB C5 Triền Cái- Tưởng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya416-TCB C5 Chiến Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya417-TCB C5 Chiến Sĩ tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya418-TCB C5 Trưởng Lão- Kakudha.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya419-TCB C5 An Ổn Trú- Andhkavinda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya420-TCB C5 Bệnh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya421-TCB C5 Vua (Chuyển Luân Vương).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya422-TCB C5 Vua (Không có thể kham nhẫn).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya423-TCB C5 Tikandaki.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya424-TCB C5 Diệu Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya425-TCB C5 17 Hiềm Hận- Nam Cư Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya426-TCB C5 20 Bà La Môn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya427-TCB C5 Bà La Môn tt- Kimbila.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya428-TCB C5 Mắng Nhiếc- Du Hành Dài.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya429-TCB C5 Trú Tại Chổ- Phẩm Ác hành.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya430-TCB C5 26 Cụ Túc Giới.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya431-TCB C6 Đáng Được Cung Kính.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya432-TCB C6 2 Cần Phải Nhớ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya433-TCB C6 3 Trên Tất Cả.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya434-TCB C6 Chư Thiên.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya435-TCB C6 Dhammika.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya436-TCB C6 Dhammika (Khema).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya437-TCB C6 Đại (Sona).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya438-TCB C6 Đại (Người bán củi).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya439-TCB C6 Đại (Một Pháp Môn Quyết Trạch).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya440-TCB C6 Chư Thiên- A La Hán.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya441-TCB C6 Mát Lạnh- Lợi Ích- Ba Pháp.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya442-TCB C7 Tài Sản- Tuỳ Miên.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya443-TCB C7 Vajjì (Bạt Kỳ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya444-TCB C7 Chư Thiên (Không Phóng Dật).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya445-TCB C7 Đại Tế Đàn (Thức Trú).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya446-TCB C7 Đại Tế Đàn (Dâm Dục).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya447-TCB C7 Không Tuyên Bố.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya448-TCB C7 Không Tuyên Bố (Siha).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya449-TCB C7 Không Tuyên Bố (Bảy Pháp)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya450-TCB C7 Đại (Xấu Hổ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya451-TCB C7 Đại (Pháp Trí).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya452-TCB C7 Đại (Lửa)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya453-TCB C7 Về Luật.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya454-TCB C8 Từ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya455-TCB C8 Lớn (Veranjà).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya456-TCB C8 Lớn (Tướng Quân Siha).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya457-TCB C8 Lớn (Con Ngựa Thuần Thục)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya458-TCB C8 Gia Chủ (Ugga Ở Vesali).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya459-TCB C8 Gia Chủ (Không Phải Thời)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya460-TCB C8 Bố Thí.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya461-TCB C8 Ngày Trai Giới.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya462-TCB C8 Trai Giới (Visàkha)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya463-TCB C8 Gotami.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya464-TCB C8 Đất Rung Động (Dục).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya465-TCB C8 Đất Rung Động (Các Giải Thoát)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya466-TCB C8 Song Đôi (Lòng Tin).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya467-TCB C8 Song Đôi-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya468-TCB C8 Niệm và Tham Ái.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya469-TCB C9 Chánh Giác.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya470-TCB C9 Chánh Giác-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya471-TCB C9 Tiếng Rống Sư Tử.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya472-TCB C9 Tiếng Rống Sư Tử (Tôn Giả Samiddhi)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya473-TCB C9 Chổ Cư Trứ các Hữu Tình.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya474-TCB C9 Chổ Cư Trứ các Hữu Tình-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya475-TCB C9 Đại (Chín Thứ Đệ Trú).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya476-TCB C9 Đại.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya477-TCB C9 Đại (Con Voi Lớn)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya478-TCB C9 Pancala (Pancalacanda).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya479-TCB C10 Lợi Ích.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya480-TCB C10 Hộ Trì (Trú Xứ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya481-TCB C10 Hộ Trì (Đáng Được Cúng Dường)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya482-TCB C10 Lớn (Con Sư Tử).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya483-TCB C10 Lớn (Thiền Án Xứ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya484-TCB C10 Lớn (Người Kosala)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya485-TCB C10 Upaly và Ananda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya486-TCB C10 Mắng Nhiếc.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya487-TCB C10 Tâm Của Mình.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya488-TCB C10 Song Đôi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya489-TCB C10 Ước Nguyện.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya490-TCB C10 Ước Nguyện-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya491-TCB C10 Trưởng Lão.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya492-TCB C10 Trưởng Lão (Tỷ Kheo Kàlaka)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya493-TCB C10 Nam Cư Sĩ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya494-TCB C10 Nam Cư Sĩ (Kiến).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya495-TCB C10 Nam Cư Sĩ (Đáng Đảnh Lễ)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya496-TCB C10 Sa Môn Tưởng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya497-TCB C10 Đi Xuống.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya498-TCB C10 Thanh Tịnh- Thiện Lương- Thánh Đạo- Người- Janussoni.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya499-TCB C10 Anussoni.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya500-TCB C10 Thiện Lương- Thánh Đạo- Hạng Ngườii- Thân Do Nghiệp Sanh.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya501-TCB C10 Thân Do Nghiệp Sanh (Tổn Giảm Và Tăng Trưởng).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya502-TCB C11 Y Chỉ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya503-TCB C11 Tùy Niệm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya504-TCB C11 Tùy Niệm (Từ)-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya505-TCB C11 Tổng Kết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya506-TBK Tiểu Tụng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya507-TBK Pháp Cú câu 01-145.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya508-TBK Pháp Cú Câu 146-287.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya509-TBK Pháp Cú Câu 288-423.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya510-TBK C1 Kinh Phật Tự Thuyết Phẩm Bồ Đề.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya511-TBK C2 Kinh Phật Tự Thuyết Phẩm Muccalinda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya512-TBK C3 Kinh Phật Tự Thuyết Phẩm Nanda.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya513-TBK C4 Kinh Phật Tự Thuyết Phẩm Meghiya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya514-TBK C5 Kinh Phật Tự Thuyết Phẩm Trưởng Lão Sona.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya515-TBK C6 Kinh Phật Tự Thuyết Phẩm Sanh ra đã mù.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya516-TBK C7 Kinh Phật Tự Thuyết Phẩm nhỏ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya517-TBK C8 Kinh Phật Tự Thuyết Phẩm Pataligamiya.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya518-TBK C1 Kinh Phật Thuyết Như Vậy (Một Pháp).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya519-TBK C2 Kinh Phật Thuyết Như Vậy (Hai Pháp).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya520-TBK C3 Kinh Phật Thuyết Như Vậy (Ba Pháp).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya521-TBK C3 Kinh Phật Thuyết Như Vậy (Ba Pháp)-tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya522-TBK C4 Kinh Phật Thuyết Như Vậy (Bốn Pháp).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya523-TBK C1 Kinh Tập Một Phẩm Rắn Urgavagga.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya524-TBK C1 Kinh Tập Một Phẩm Kinh Bại Vong.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya525-TBK C2 Kinh Tập Tiểu Phẩm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya526-TBK C2 Kinh Tập Tiểu Phẩm Chiếc Thuyền.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya527-TBK C3 Kinh Tập Đại Phẩm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya528-TBK C3 Kinh Tập Đại Phẩm (Sabhiya).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya529-TBK C3 Kinh Tập Đại Phẩm (Kinh Nàlaka).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya530-TBK C4 Kinh Tập Phẩm tám Kinh Về Dục.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya531-TBK C4 Kinh Tập Phẩm tám Kinh Về Dục tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya532-TBK C5 Kinh Tập Trên Đường Đến Bờ Bên Kia.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya533-TBK C5 Kinh Tập Trên Đường Đến Bờ Bên Kia tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya534-TBK Chuyện Thiên Cung p1 Lâu Đài Nữ Giới-Chuyện 01-07.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya535-TBK Chuyện Thiên Cung p1 Lâu Đài Nữ Giới-Chuyện 08-14.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya536-TBK Chuyện Thiên Cung p1 Lâu Đài Nữ Giới-Chuyện 15.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya537-TBK Chuyện Thiên Cung p1 Lâu Đài Nữ Giới-Chuyện 16-17.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya538-TBK Chuyện Thiên Cung p2 Cittalata-Chuyện 01-03.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya539-TBK Chuyện Thiên Cung p2 Cittalata-Chuyện 04-11.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya540-TBK Chuyện Thiên Cung p3 Paricchattaka-Chuyện 01-05.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya541-TBK Chuyện Thiên Cung p3 Paricchattaka-Chuyện 06-10.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya542-TBK Chuyện Thiên Cung p4 Đỏ Sẫm-Chuyện 01-06.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya543-TBK Chuyện Thiên Cung p4 Đỏ Sẫm-Chuyện 07-12.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya544-TBK Chuyện Thiên Cung p5 Đại xa- Chuyện 01-08.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya545-TBK Chuyện Thiên Cung p5 Đại xa- Chuyện 09-14.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya546-TBK Chuyện Thiên Cung p6 Pàyasi.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya547-TBK Chuyện Thiên Cung p7 Sunikkhitta.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya548-TBK Chuyện Thiên Cung p7 Sunikkhitta tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya549-TBK Chuyện Ngạ Quỷ p1 Chuyện con Rắn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya550-TBK Chuyện Ngạ Quỷ p1 Chuyện con Rắn tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya551-TBK Chuyện Ngạ Quỷ p2 Ubbarì.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya552-TBK Chuyện Ngạ Quỷ p2 Ubbarì tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya553-TBK Chuyện Ngạ Quỷ p2 Ubbarì-hết.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya554-TBK Chuyện Ngạ Quỷ p3 Tiểu Phẩm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya555-TBK Chuyện Ngạ Quỷ p3 Tiểu Phẩm tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya556-TBK Chuyện Ngạ Quỷ p4 Đại Phẩm.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya557-TBK Chuyện Ngạ Quỷ p4 Đại Phẩm tt.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya558-TBK C1 Trưởng Lão Tăng Một Kệ p1-p2.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya559-TBK C1 Trưởng Lão Tăng Một Kệ-Phẩm Ba- Bốn.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya560-TBK C1 Trưởng Lão Tăng Một Kệ-Phẩm Năm- Sáu.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya561-TBK C1 Trưởng Lão Tăng Một Kệ Vappa (phẩm 7-8 &amp; 9).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya562-TBK C1 Trưởng Lão Tăng Một Kệ Paripunnaka (phẩm 10 &amp; 12).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya563-TBK C2 Hai Kệ Utara (phẩm 1 &amp; 2).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya564-TBK C2 Hai Kệ Uttara (phẩm 3 &amp; 4).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya565-TBK C2 Kệ Kumàra Kassapa (phẩm 5).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya566-TBK C3 Anganika Bhàradvàja (phẩm 3 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya567-TBK C4 Nàgasamàla (phẩm 4 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya568-TBK C5 Ràjadatta (Phẩm 5 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya569-TBK C6 Uruvelà Kassapa (Phẩm 6 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya570-TBK C7 Sundara Samudda (Phẩm 7 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya571-TBK C8 Sundara Samudda (Phẩm 8-10 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya572-TBK C11 Sankicca (Phẩm 11-15 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya573-TBK C16 Adhimutta (Phẩm 20 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya574-TBK C16 Bhaddiya Kàligo Dhàyaputta (Phẩm 20 Kệ tt).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya575-TBK C17 Phussa (Phẩm 30 Kệ.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya576-TBK C18 Mahà Kassapa (Phẩm 40-50 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya577-TBK C20 Mahà Moggallàna (Phẩm 60 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya578-TBK Trưởng Lão Ni Kệ (Tập 1 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya579-TBK Trưởng Lão Ni Kệ-Abhirùpa (Tập 2 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya580-TBK Trưởng Lão Ni Kệ-Một Sàmà Khác (Tập 3 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya581-TBK Trưởng Lão Ni Kệ-Bhaddà Thuộc Dòng Họ Kapllà (Tập 4 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya582-TBK Trưởng Lão Ni Kệ-Một Tỷ Kheo Ni Vô Danh (Tập 5 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya583-TBK Trưởng Lão Ni Kệ-Năm Trăm Patàcàrà (Tập 6 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya584-TBK Trưởng Lão Ni Kệ-Uttarà (Tập 7 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya585-TBK Trưởng Lão Ni Kệ-Sìsupacàlà (Tập 8 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya586-TBK Trưởng Lão Ni Kệ-Của Vaddha (Tập 9 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya587-TBK Trưởng Lão Ni Kệ-Kisà Gotamì (Tập 10 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya588-TBK Trưởng Lão Ni Kệ-Uppalavanna (Tập 11 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya589-TBK Trưởng Lão Ni Kệ-Punnà hay Punnikà (Tập 12 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya590-TBK Trưởng Lão Ni Kệ-Ambapàli (Tập 20 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya591-TBK Trưởng Lão Ni Kệ-Subhà ở Rừng Xoài của Jivaka (Tập 30 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya592-TBK Trưởng Lão Ni Kệ-Isidàsi (Tập 40 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya593-TBK Trưởng Lão Ni Kệ-Sumedhà (Tập 40 Kệ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya594-TBK C1 Phẩm Apannaka- Chuyển Pháp Tối Thượng.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya595-TBK C1 Phẩm Apannaka- Chuyện 02-03.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya596-TBK C1 Phẩm Apannaka- Chuyện Tiểu Triệu Phú.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya597-TBK C1 Phẩm Apannaka- Chuyện 06-07.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya598-TBK C1 Phẩm Apannaka- Chuyện 08-09-10.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya599-TBK C1 Phẩm Giới- Chuyện 11-12.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya600-TBK C1 Phẩm Giới- Chuyện 13-14-15-16.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya601-TBK C1 Phẩm Giới- Chuyện 17-18-19-20.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya602-TBK C1 Phẩm Kurunga- Chuyện 21-22-23-24-25.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya603-TBK C1 Phẩm Kurunga- Chuyện 26-27-28-29-30.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya604-TBK C1 Phẩm Kulavaka- Chuyện 31.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya605-TBK C1 Phẩm Kulavaka- Chuyện 32-33-34-35-36-37.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya606-TBK C1 Phẩm Kulavaka- Chuyện 38-39-40.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya607-TBK C1 Phẩm Lợi Ái Chuyện 41-50.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya608-TBK C1 Phẩm Asimsa Chuyện 51-54.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya609-TBK C1 Phẩm Asimsa Chuyện 55-60.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya610-TBK C1 Phẩm Nữ Nhân Chuyện 61-64.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya611-TBK C1 Phẩm Nữ Nhân Chuyện 65-70.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya612-TBK C1 Phẩm Varana Chuyện 71-73.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya613-TBK C1 Phẩm Varana Chuyện 74-76.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya614-TBK C1 Phẩm Varana Chuyện 77.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya615-TBK C1 Phẩm Varana Chuyện 78-80.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya616-TBK C1 Phẩm Apayimha Chuyện 81-85.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya617-TBK C1 Phẩm Apayimha Chuyện 86-90.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya618-TBK C1 Phẩm Litta Chuyện 91-95.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya619-TBK C1 Phẩm Litta Chuyện 96-100.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya620-TBK C1 Phẩm Parossata Chuyện 101-110.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya621-TBK C1 Phẩm Hamsa Chuyện 111-120.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya622-TBK C1 Phẩm Kusanali 121-124.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya623-TBK C1 Phẩm Kusanali 125-130.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya624-TBK C1 Phẩm Asampadana 131-136.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya625-TBK C1 Phẩm Asampadana 137-140.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya626-TBK C1 Phẩm Kakantaka 141-147.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya627-TBK C1 Phẩm Kakantaka 148-150.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya628-TBK C2 Phẩm Dalda 151-155.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya629-TBK C2 Phẩm Dalda 156-160.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya630-TBK C2 Phẩm Santahava 161-163.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya631-TBK C2 Phẩm Santahava 164-170.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya632-TBK C2 Phẩm Thiện Pháp 171-174.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya633-TBK C2 Phẩm Thiện Pháp 175-180.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya634-TBK C2 Phẩm Asadisa 181-184.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya635-TBK C2 Phẩm Asadisa 185-190.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya636-TBK C2 Phẩm Ruhaka 191-194.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya637-TBK C2 Phẩm Ruhaka 195-200.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya638-TBK C2 Phẩm Natamdaiha 201-205.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya639-TBK C2 Phẩm Natamdaiha 206-210.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya640-TBK C2 Phẩm Biranatthambahaka 211-216.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya641-TBK C2 Phẩm Biranatthambahaka 217-220.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya642-TBK C2 Phẩm Kasava 221-223.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya643-TBK C2 Phẩm Kasava 224-230.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya644-TBK C2 Phẩm Upahana 231-237.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya645-TBK C2 Phẩm Upahana 238-240.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya646-TBK C2 Phẩm Sigala 241-244.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya647-TBK C2 Phẩm Sigala 245-250.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya648-TBK C3 Phẩm Sankappa 251-253.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya649-TBK C3 Phẩm Sankappa 254-256.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya650-TBK C3 Phẩm Sankappa 257.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya651-TBK C3 Phẩm Sankappa 258-260.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya652-TBK C3 Phẩm Kosya 261-263.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya653-TBK C3 Phẩm Ba Bài Kệ 264-268.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya654-TBK C3 Phẩm Ba Bài Kệ 269-275.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya655-TBK C3 Phẩm Ba Bài Kệ 276.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya656-TBK C3 Phẩm Ba Bài Kệ 277-281.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya657-TBK C3 Phẩm Ba Bài Kệ 282-284.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya658-TBK C3 Phẩm Ba Bài Kệ 285-289.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya659-TBK C3 Phẩm Ba Bài Kệ 290-295.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya660-TBK C3 Phẩm Ba Bài Kệ 296-300.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya661-TBK C4 Phẩm Bốn Bài Kệ 301-302.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya662-TBK C4 Phẩm Bốn Bài Kệ 303-310.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya663-TBK C4 Phẩm Bốn Bài Kệ 311-314.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya664-TBK C4 Phẩm Bốn Bài Kệ 315-319.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya665-TBK C4 Phẩm Bốn Bài Kệ 320-325.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya666-TBK C4 Phẩm Bốn Bài Kệ 326-332.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya667-TBK C4 Phẩm Bốn Bài Kệ 333-337.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya668-TBK C4 Phẩm Bốn Bài Kệ 338-343.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya669-TBK C4 Phẩm Bốn Bài Kệ 344-350.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya670-TBK C5 Phẩm Năm Bài Kệ 351-356.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya671-TBK C5 Phẩm Năm Bài Kệ 357-361.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya672-TBK C5 Phẩm Năm Bài Kệ 362-371.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya673-TBK C6 Phẩm Sáu Bài Kệ 372-376.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya674-TBK C6 Phẩm Sáu Bài Kệ 377-380.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya675-TBK C6 Phẩm Sáu Bài Kệ 381-386.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya676-TBK C6 Phẩm Sáu Bài Kệ 387-390.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya677-TBK C6 Phẩm Sáu Bài Kệ 391-395.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya678-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 396-399.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya679-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 400-401.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya680-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 402-405.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya681-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 406-407.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya682-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 408-409.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya683-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 410-412.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya684-TBK C7 Phẩm Bảy Bài Kệ-Chuyện 413-416.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya685-TBK C8 Phẩm Tám Phẩm Tám Bài Kệ 417-419.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya686-TBK C8 Phẩm Tám Bài Kệ 420-421.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya687-TBK C8 Phẩm Tám Bài Kệ 422.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya688-TBK C8 Phẩm Tám Bài Kệ 423-424.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya689-TBK C8 Phẩm Tám Bài Kệ 425-426.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya690-TBK C9 Phẩm Chín Bài Kệ 427-431.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya691-TBK C9 Phẩm Chín Bài Kệ 432.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya692-TBK C9 Phẩm Chín Bài Kệ 433-334.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya693-TBK C9 Phẩm Chín Bài Kệ 435-438.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya694-TBK C10 Phẩm Mười Bài Kệ 439-441.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya695-TBK C10 Phẩm Mười Bài Kệ 442-443.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya696-TBK C10 Phẩm Mười Bài Kệ 444-445.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya697-TBK C10 Phẩm Mười Bài Kệ 446-448.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya698-TBK C10 Phẩm Mười Bài Kệ 449-452.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya699-TBK C10 Phẩm Mười Bài Kệ 453-454.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya700-TBK C11 Phẩm10 Một Bài Kệ 455-457.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya701-TBK C11 Phẩm10 Một Bài Kệ 458-459.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya702-TBK C11 Phẩm10 Một Bài Kệ 460-561.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya703-TBK C11 Phẩm10 Một Bài Kệ 462-463.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya704-TBK C12 Phẩm10 Hai Bài Kệ 464-465.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya705-TBK C12 Phẩm10 Hai Bài Kệ 466-467.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya706-TBK C12 Phẩm10 Hai Bài Kệ 468-470.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya707-TBK C12 Phẩm10 Hai Bài Kệ 471-473.mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya708-TBK C13 Phẩm 13 Bài Kệ(474 Trái xoài, Cây hồng phượng vĩ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya709-TBK C13 Phẩm 13 Bài Kệ(478 Sứ thần, Cây bồ đề).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya710-TBK C13 Phẩm 13 Bài Kệ(480 Hiền giả Akita, Takkàriya).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya711-TBK C13 Phẩm 13 Bài Kệ(482 Lộc Vương, Chúa Nai Sarabha).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya712-TBK C14 Tạp Phẩm(484 Cánh đồng lúa, Đôi ca thần Canda).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya713-TBK C14 Tạp Phẩm(487 Nam Tử Uddalaka).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya714-TBK C14 Tạp Phẩm(490 Năn Vị hành trì trai giới, Đại Khổng Tước).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya715-TBK C14 Tạp Phẩm(492 Lợn rừng của thợ mộc, Đại Vương Sàdhìna).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya716-TBK C14 Tạp Phẩm(496 Cúng thưc phẩm đúng cấp bậc).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya717-TBK C15 Tạp Phẩm(501 Lộc Vương Rohanta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya718-TBK C15 Tạp Phẩm(502 Chúa Thiên Nga, Anh Vũ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya719-TBK C15 Tạp Phẩm(506 Long Vương Campeyya).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya720-TBK C16 Tạp Phẩm(510 Vương Tử Trong Ngôi Nhà Sắt).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya721-TBK C16 Tạp Phẩm(514 Tượng Vương ở Hồ Chaddanta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya722-TBK C16 Tạp Phẩm(515 Nam Tử Sambhava).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya723-TBK C16 Tạp Phẩm(518 Long Vương Pandara).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya724-TBK C17 (521 Ba con Chim).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya725-TBK C17 (522 Đại Nhân Thiện Xạ SARABHANGA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya726-TBK C17 (523 Thiên Nữ ALMBUSA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya727-TBK C17 (524 Long Vuong SAMKHPALA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya728-TBK C17 (525 Tiểu SUTASOMA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya729-TBK C18 (526 Công Chúa NALINIKA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya730-TBK C18 (527 Kỷ Nữ UMMADANTI).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya731-TBK C18 (528 Hiền Giả Đại Bồ Đề).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya732-TBK C19 (529 Hiền Giả SONAKA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya733-TBK C19 (530 Hiền Giả SAMKICCA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya734-TBK C20 (531 Đại Đế KUSA-Duc Uy).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya735-TBK C20 (532 Hai Hiền Giả SoNa-NanDa).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya736-TBK C21 (533 Tiểu Thiên Nga).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya737-TBK C21 (534 Đại Thiên Nga).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya738-TBK C21 (535 Thực Phẩm Thiên Giới).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya739-TBK C21 (535 Tthuc Phẩm Thiên Giới-hết ).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya740-TBK C21 (536 Chúa chim KUNALA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya741-TBK C21 (537 Đại SUTASUMA-Duc Uy).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya742-TBK C21 (537 Đại SUTASOMA-hết).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya743-TBK C22 (538 Vương Tử què câm).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya744-TBK C22 (539 Đại Vương MAHAJANAKA).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya745-TBK C22 (540 Hiếu Tử SaMa).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya746-TBK C22 (541 Đại Vương NIMI).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya747-TBK C22 (542 Tế Sư Khandahala).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya748-TBK C22 (543 Bậc Đại Trí Bhuradatta).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya749-TBK C22 (543 Bậc Đại Trí Bhuradatta-hết).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya750-TBK C22 (544 Bậc Đại trí Mahanarada).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya751-TBK C22 (545 Bậc Đại trí Vô Song).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya752-TBK C22 (545 Bậc Đại Trí Vô Song-hết).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya753-TBK C22 (546 Đường Hầm Vĩ Đại).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya754-TBK C22 (546 Đường Hầm Vĩ Đại-Viên Bảo Ngọc).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya755-TBK C22 (546 Đường Hầm Vĩ Đại-Con Đường Bí Mật).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya756-TBK C22 (546 Đường Hầm Vĩ Đại-Năm Vị Hiền Nhân).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya757-TBK C22 (546 Đường Hầm Vĩ Đại-Cuộc Đại Chiến).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya758-TBK C22 (546 Đường Hầm Vĩ Đại).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya759-TBK C22 (546 Đường Hầm Vĩ Đại).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya760-TBK C22 (546 Đường Hầm Vĩ Đại-hết).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya761-TBK C22 (547 Đại Vương Vessantara).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya762-TBK C22 (547 Đại Vương Vessantara-Thái Tử Bị Đày Lên Núi Vamka).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya763-TBK C22 (547 Đại Vương Vessantara-Cuộc Hành Trình Lên Núi Vamka).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya764-TBK C22 (547 Đại Vương Vessantara-Bố Thí Hai Con).mp3</location>
+    </track>
+    <track>
+      <location>https://www.daitangkinh.org/mp3/Nikaya765-TBK C22 (547 Đại Vương Vessantara-hết-Sakka Thiên Chủ Xuất Hiện).mp3</location>
+    </track>
+  </trackList>
+</playlist>

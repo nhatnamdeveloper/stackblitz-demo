@@ -1,0 +1,11 @@
+<playlist xmlns="http://xspf.org/ns/0/" xmlns:vlc="http://www.videolan.org/vlc/playlist/ns/0/" version="1">
+	<title>Kinh Nikaya</title>
+	<trackList>
+		<track>
+			<location>https://www.daitangkinh.org/mp3/Nikaya/000-L%E1%BB%9Di%20N%C3%B3i%20%C4%90%E1%BA%A7u-Ban%20Ho%E1%BA%B1ng%20Ph%C3%A1p.mp3</location>
+		</track>
+		<track>
+			<location>https://www.daitangkinh.org/mp3/Nikaya/001-Tr%C6%B0%E1%BB%9Dng%20B%E1%BB%99%20(01)%20Kinh%20Ph%E1%BA%A1m%20v%C3%B5ng%20(Brahmaj%C3%A0la%20Sutta).mp3</location>
+		</track>
+	</trackList>
+</playlist>
